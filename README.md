@@ -1,2 +1,2 @@
-# kawai-todo
-kawai app make with React Native
+# Kawai To do
+Kawai To Do App made with React Native
